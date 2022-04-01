@@ -1,0 +1,40 @@
+{
+  "id": 353486933,
+  "nickname": "ELCOMPRADORNY",
+  "registration_date": "2018-09-11T12:30:54.000-04:00",
+  "country_id": "CO",
+  "address": {
+    "city": "Chapinero",
+    "state": "CO-DC"
+  },
+  "user_type": "normal",
+  "tags": [
+    "normal",
+    "mshops"
+  ],
+  "logo": null,
+  "points": 332,
+  "site_id": "MCO",
+  "permalink": "http://perfil.mercadolibre.com.co/ELCOMPRADORNY",
+  "seller_reputation": {
+    "level_id": "5_green",
+    "power_seller_status": "platinum",
+    "transactions": {
+      "canceled": 116,
+      "completed": 1857,
+      "period": "historic",
+      "ratings": {
+        "negative": 0.04,
+        "neutral": 0.03,
+        "positive": 0.93
+      },
+      "total": 1973
+    }
+  },
+  "buyer_reputation": {
+    "tags": []
+  },
+  "status": {
+    "site_status": "active"
+  }
+}
